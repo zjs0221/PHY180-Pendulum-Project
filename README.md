@@ -2,3 +2,5 @@ To create the graphs, first download all .txt and .py files, then change the loc
 fit_garph.py can then be run to generate the required graph.
 
 .trk files can be opened in Tracker to view the data extraction from the video.
+
+.png graphs are also included for closer inspection.
